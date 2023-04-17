@@ -1,11 +1,13 @@
-# Demo repository
-Демонстрационный проект для тестов.
+# Kekstagram
+Кекстаграм — сервис просмотра изображений. Пользователям предоставлена
+возможность загружать свои фотографии или просматривать фотографии,
+загруженные ранее другими пользователями.
 
-[![Ссылка на сайт](https://img.shields.io/badge/-WEBSITE-%23222222?logo=GitHub%20Pages)](https://impudens.github.io/js-vite-template/)
+[![Ссылка на сайт](https://img.shields.io/badge/-Kekstagram-%23222222?logo=GitHub%20Pages)](https://impudens.github.io/kekstagram/)
 
 ***
 
-<img src="https://i.ibb.co/qD34Hn4/Screenshot-from-2023-03-20-04-42-54.png" alt="Screenshot-from-2023-03-20-04-42-54" border="0">
+<img src="https://i.ibb.co/c2J1Gt9/Screenshot-from-2023-04-17-15-32-27.png" alt="Screenshot-from-2023-03-20-04-42-54" border="0">
 
 ***
 
@@ -13,21 +15,21 @@
 - [Технологии](#технологии)
 - [To do](#to-do)
 - [Команда проекта](#команда-проекта)
-- [Источники](#Источники)
 
 ## Технологии
-![HTML5 badge](https://img.shields.io/badge/-HTML-%23003?logo=html5)
+![JavaSctipt badge](https://img.shields.io/badge/-JavaScript-%23003?color=%23003&logo=JavaScript&logoColot=%23F7DF1E)
+![HTML5 badge](https://img.shields.io/badge/-HTML5-%23003?logo=html5)
+![CSS3 badge](https://img.shields.io/badge/-CSS3-%23003?logo=CSS3&logoColor=%231572B6)
+![Vite badge](https://img.shields.io/badge/-Vite-%23003?color=%23FFC119&logo=vite)
 
 ### Мотивация
-Задача проекта - разобраться как настраивать и оформлять проект. 
+Цель - отработать навыки оживления страницы при помощи JavaScript
 
 ## To do
-- [x] Создать, оформить и настроить проект
 - [x] Выложить проект на GitPages
+- [x] Оформление репозитория проекта
 - [x] Оформить файл README.md
+- [ ] Выполнить техническое задание
 
 ## Команда проекта
 [![Ivan Trofimov](https://img.shields.io/badge/-Ivan%20Trofimov-black?logo=GitHub)](https://github.com/impudens)
-
-## Источники
-[![Шаблон](https://img.shields.io/badge/-%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20README.md-informational?logo=GitHub)](https://gist.github.com/bzvyagintsev/0c4adf4403d4261808d75f9576c814c2)
